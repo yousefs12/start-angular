@@ -1,0 +1,7 @@
+.imgOverlay {
+  transition: 0.5s all;
+}
+
+.portfolioCard:hover .imgOverlay {
+  opacity: 0.9 !important;
+}

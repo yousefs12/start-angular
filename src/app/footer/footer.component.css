@@ -1,0 +1,10 @@
+.socialLink {
+  width: 3.25rem;
+  height: 3.25rem;
+  transition: 0.5s all;
+}
+
+.socialLink:hover {
+  background-color: white;
+  color: var(--secondary-color2) !important;
+}
